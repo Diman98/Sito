@@ -1,0 +1,18 @@
+body {
+    margin: 15px;
+    width: 50%;
+}
+
+
+.left-pos {
+    float: left;
+    width: 30%;
+    background: gray;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.summary {
+    background: lightgray;
+    padding: 25px;
+}
